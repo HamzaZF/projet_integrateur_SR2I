@@ -14,7 +14,3 @@ Ce repository accompagne le projet intégrateur intitulé "Analyse des EDR et É
 
 - Eddy Raingeaud - eddy.raingeaud@telecom-paris.fr
 - Hamza Zarfaoui - hamza.zarfaoui@telecom-paris.fr
-
-## Licence
-
-Ce projet est sous licence [MIT](LICENSE).
