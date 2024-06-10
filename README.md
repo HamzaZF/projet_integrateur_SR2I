@@ -8,7 +8,7 @@ Ce repository accompagne le projet intégrateur intitulé "Analyse des EDR et É
 - `indirect_syscall`: Contient le code source pour l'exemple de indirect syscall.
 - `full_dll_unhooking`: Contient le code source pour l'exemple de full_dll_unhooking.
 - `dirtyvanity`: Contient le code source pour l'exemple de DirtyVanity.
-- `paper.pdf`: Le rapport au format PDF.
+- `projet_integrateur_eddy_hamza.pdf`: Le rapport au format PDF.
 
 ## Auteurs
 
