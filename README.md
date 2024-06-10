@@ -12,8 +12,8 @@ Ce repository accompagne le projet intégrateur intitulé "Analyse des EDR et É
 
 ## Auteurs
 
-- [Eddy Raingeaud - eddy.raingeaud@telecom-paris.fr]
-- [Hamza Zarfaoui - hamza.zarfaoui@telecom-paris.fr]
+- Eddy Raingeaud - eddy.raingeaud@telecom-paris.fr
+- Hamza Zarfaoui - hamza.zarfaoui@telecom-paris.fr
 
 ## Licence
 
